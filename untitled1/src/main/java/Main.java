@@ -115,7 +115,7 @@ public class Main {
             String resultRome = arabicToRoman(output2);
             System.out.println(resultRome);
         }
-        if (check1){  //если араб то счетаем
+        if (check1){ 
             String output = calc(input);
             System.out.println(output);
         }
